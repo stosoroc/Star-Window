@@ -63,5 +63,7 @@ The animation uses requestAnimationFrame for smoothness and adapts to window res
 Customization:
 
 You can easily change the number of stars, their colors, brightness, or the frequency of meteorites by editing the relevant variables at the top of the script.
+
 Summary
+
 This starfield is an interactive, visually rich simulation designed for both aesthetics and engagement. Pay special attention to the layered parallax, the glowing and glossy close stars, the twinkling/flickering mid-layer stars with their quick starburst spikes, and the immersive controls at the top of the screen.
